@@ -1,6 +1,6 @@
 {
     "author": "kai zhu <kaizhu256@gmail.com>",
-    "description": "#### test coverage for  [delete (v0.3.2)](https://github.com/jonschlinkert/delete)  [![npm package](https://img.shields.io/npm/v/npmtest-delete.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-delete) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-delete.svg)](https://travis-ci.org/npmtest/node-npmtest-delete)",
+    "description": "#### basic test coverage for  [delete (v0.3.2)](https://github.com/jonschlinkert/delete)  [![npm package](https://img.shields.io/npm/v/npmtest-delete.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-delete) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-delete.svg)](https://travis-ci.org/npmtest/node-npmtest-delete)",
     "devDependencies": {
         "delete": "*",
         "electron-lite": "kaizhu256/node-electron-lite#alpha",
